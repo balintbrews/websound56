@@ -1,0 +1,54 @@
+{
+  "First": {
+    "file": "assets/loop-1-v1.mp3",
+    "fades": [
+      {
+        "scrollPosition": 100,
+        "fromVolume": 0,
+        "toVolume": 1,
+        "duration": 5000
+      },
+      {
+        "scrollPosition": 300,
+        "fromVolume": 1,
+        "toVolume": 0.5,
+        "duration": 2000
+      },
+      {
+        "scrollPosition": 600,
+        "fromVolume": 0.5,
+        "toVolume": 0,
+        "duration": 5000
+      }
+    ]
+  },
+  "Second": {
+    "file": "assets/loop-2-v1.mp3",
+    "fades": [
+      {
+        "scrollPosition": 200,
+        "fromVolume": 0,
+        "toVolume": 0.5,
+        "duration": 3000
+      },
+      {
+        "scrollPosition": 400,
+        "fromVolume": 0.5,
+        "toVolume": 0.75,
+        "duration": 1000
+      },
+      {
+        "scrollPosition": 500,
+        "fromVolume": 0.75,
+        "toVolume": 1,
+        "duration": 1000
+      },
+      {
+        "scrollPosition": 800,
+        "fromVolume": 1,
+        "toVolume": 0,
+        "duration": 3000
+      }
+    ]
+  }
+}
