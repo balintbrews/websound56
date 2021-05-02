@@ -15,6 +15,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Lint JavaScript code
+        run: npm run lint
+
+      - name: Check formatting of non-JS code
+        run: npm run format-check
+
       - name: Build app
         run: npm run build
         env:

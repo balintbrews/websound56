@@ -1,4 +1,4 @@
-import {Howl} from 'howler';
+import { Howl } from 'howler';
 
 const sound = new Howl({
   src: ['assets/loop-1-v1.mp3'],
