@@ -1,15 +1,29 @@
 # WebSound56
 
-🔗 [https://websound56.benleavez.com](https://websound56.benleavez.com)
-
 [![Code Style](https://badgen.net/badge/code%20style/airbnb/ff5a5f?icon=airbnb)](https://github.com/airbnb/javascript)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 Experimental JavaScript library for playing sound loops mapped to scroll
 positions of a web page.
 
+🔗 [Demo: https://websound56.benleavez.com](https://websound56.benleavez.com)
+
 **Concept and sound design by
 [Bence Csontos a.k.a Ben Leavez](https://benleavez.com).**
+
+## Usage
+
+1. Upload sound loop files to the `assets` folder.
+
+2. Edit the `src/config.json` file to reference the uploaded files and set up
+   loop segments.
+
+3. To integrate into your website add the following `<script>` tag to the
+   `<head>` or before the closing tag of your `<body>`:
+
+```
+<script defer="defer" src="https://websound56.benleavez.com/app.js"></script>
+```
 
 ## Development
 
