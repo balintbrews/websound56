@@ -1,38 +1,94 @@
-{
-  "Loop_1": {
+[
+  {
     "file": "assets/loop-1-v1.mp3",
-    "volume": [
-      {"0": 100},
-      {"75": 100},
-      {"100": 0}
+    "segments": [
+      {
+        "position": 0,
+        "volume": 100
+      },
+      {
+        "position": 75,
+        "volume": 100
+      },
+      {
+        "position": 100,
+        "volume": 0
+      }
     ]
   },
-  "Loop_2": {
+  {
     "file": "assets/loop-2-v1.mp3",
-    "volume": [
-      {"0": 0},
-      {"25": 0},
-      {"50": 100},
-      {"75": 0},
-      {"100": 0}
+    "segments": [
+      {
+        "position": 0,
+        "volume": 0
+      },
+      {
+        "position": 25,
+        "volume": 0
+      },
+      {
+        "position": 50,
+        "volume": 100
+      },
+      {
+        "position": 75,
+        "volume": 0
+      },
+      {
+        "position": 100,
+        "volume": 0
+      }
     ]
   },
-  "Loop_3": {
+  {
     "file": "assets/loop-3-v1.mp3",
-    "volume": [
-      {"0": 0},
-      {"50": 0},
-      {"75": 100},
-      {"100": 0}
+    "segments": [
+      {
+        "position": 0,
+        "volume": 0
+      },
+      {
+        "position": 50,
+        "volume": 0
+      },
+      {
+        "position": 75,
+        "volume": 100
+      },
+      {
+        "position": 100,
+        "volume": 0
+      }
     ]
   },
-  "Loop_4": {
+  {
     "file": "assets/loop-4-v1.mp3",
-    "volume": [
-      {"0": 0},
-      {"25": 100},
-      {"50": 0},
-      {"100": 100}
+    "segments": [
+      {
+        "position": 0,
+        "volume": 0
+      },
+      {
+        "position": 25,
+        "volume": 100
+      },
+      {
+        "position": 50,
+        "volume": 0
+      },
+      {
+        "position": 60,
+        "volume": 100
+      },
+      {
+        "position": 80,
+        "volume": 0
+      },
+      {
+        "position": 100,
+        "volume": 0
+      }
     ]
   }
-}
+]

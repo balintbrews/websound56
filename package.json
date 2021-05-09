@@ -19,7 +19,10 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "howler": "^2.2.1"
+    "@svgdotjs/svg.js": "^3.0.16",
+    "howler": "^2.2.1",
+    "lineq": "^0.0.1-rc2",
+    "rulez.js": "^0.6.0"
   },
   "scripts": {
     "build": "webpack",
