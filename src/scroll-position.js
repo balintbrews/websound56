@@ -10,6 +10,9 @@ const getScrollPositionPercentage = () => {
   );
   const position =
     document.documentElement.scrollTop || document.body.scrollTop;
+
+  // eslint-disable-next-line no-console
+  console.log(`Scroll height: ${scrollHeight}`);
   return (
     // ((position + document.documentElement.clientHeight / 2) / scrollHeight) * 100
     (position / scrollHeight) * 100
