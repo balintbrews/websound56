@@ -8,7 +8,7 @@ document.addEventListener(
   () => {
     const loops = config.map(loop => {
       const sound = new Howl({
-        src: [loop.file],
+        src: [`${BASE_URL}/${loop.file}`], // eslint-disable-line no-undef
         loop: true,
         volume: 0,
       });
