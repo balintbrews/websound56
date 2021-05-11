@@ -29,7 +29,7 @@ document.addEventListener(
 );
 
 function update(loops) {
-  const position = getScrollPositionPercentage(8000);
+  const position = getScrollPositionPercentage();
   const volumes = getCurrentVolume(position);
   updateVolume(loops, volumes);
 }

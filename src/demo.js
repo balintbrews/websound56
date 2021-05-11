@@ -24,7 +24,7 @@ document.addEventListener(
 );
 
 function update(markers) {
-  const position = getScrollPositionPercentage(8000);
+  const position = getScrollPositionPercentage();
   const volumes = getCurrentVolume(position);
   updateScrollPositionPercentage(position);
   updateMarkers(markers, position, volumes);

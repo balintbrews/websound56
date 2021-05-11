@@ -1,9 +1,18 @@
-const getScrollPositionPercentage = totalHeight => {
+const getScrollPositionPercentage = () => {
+  // @see https://javascript.info/size-and-scroll-window#width-height-of-the-document
+  const scrollHeight = Math.max(
+    document.body.scrollHeight,
+    document.documentElement.scrollHeight,
+    document.body.offsetHeight,
+    document.documentElement.offsetHeight,
+    document.body.clientHeight,
+    document.documentElement.clientHeight
+  );
   const position =
     document.documentElement.scrollTop || document.body.scrollTop;
   return (
-    // ((position + document.documentElement.clientHeight / 2) / totalHeight) * 100
-    (position / totalHeight) * 100
+    // ((position + document.documentElement.clientHeight / 2) / scrollHeight) * 100
+    (position / scrollHeight) * 100
   );
 };
 
