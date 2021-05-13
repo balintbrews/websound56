@@ -50,7 +50,7 @@
     ]
   },
   {
-    "file": "percpoli-v2.mp3",
+    "file": "assets/percpoli-v2.mp3",
     "segments": [
       {
         "position": 0,
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "file": "tonal-01-v2.mp3",
+    "file": "assets/tonal-01-v2.mp3",
     "segments": [
       {
         "position": 0,
@@ -121,7 +121,7 @@
     ]
   },
     {
-    "file": "tonal-02-v2.mp3",
+    "file": "assets/tonal-02-v2.mp3",
     "segments": [
       {
         "position": 0,
