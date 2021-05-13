@@ -13,6 +13,10 @@
       {
         "position": 30,
         "volume": 0
+      },
+      {
+        "position": 100,
+        "volume": 0
       }
     ]
   },
@@ -38,6 +42,10 @@
       {
         "position": 40,
         "volume": 0
+      },
+      {
+        "position": 100,
+        "volume": 0
       }
     ]
   },
@@ -59,6 +67,10 @@
       {
         "position": 60,
         "volume": 0
+      },
+      {
+        "position": 100,
+        "volume": 0
       }
     ]
   },
@@ -75,6 +87,10 @@
       },
       {
         "position": 50,
+        "volume": 0
+      },
+      {
+        "position": 100,
         "volume": 0
       }
     ]
@@ -97,6 +113,10 @@
       {
         "position": 40,
         "volume": 0
+      },
+      {
+        "position": 100,
+        "volume": 0
       }
     ]
   },
@@ -117,6 +137,10 @@
       },
       {
         "position": 50,
+        "volume": 0
+      },
+      {
+        "position": 100,
         "volume": 0
       }
     ]
@@ -139,6 +163,10 @@
       {
         "position": 55,
         "volume": 0
+      },
+      {
+        "position": 100,
+        "volume": 0
       }
     ]
   },
@@ -159,6 +187,10 @@
       },
       {
         "position": 65,
+        "volume": 0
+      },
+      {
+        "position": 100,
         "volume": 0
       }
     ]
@@ -185,6 +217,10 @@
       {
         "position": 80,
         "volume": 0
+      },
+      {
+        "position": 100,
+        "volume": 0
       }
     ]
   },
@@ -205,6 +241,10 @@
       },
       {
         "position": 85,
+        "volume": 0
+      },
+      {
+        "position": 100,
         "volume": 0
       }
     ]
