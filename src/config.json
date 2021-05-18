@@ -171,7 +171,7 @@
     ]
   },
     {
-    "file": "assets/radio-02-v2.mp3",
+    "file": "assets/v3-radio-02.mp3",
     "segments": [
       {
         "position": 0,
@@ -196,7 +196,7 @@
     ]
   },
     {
-    "file": "assets/crazy-01-v2.mp3",
+    "file": "assets/v3-crazy-01.mp3",
     "segments": [
       {
         "position": 0,
@@ -208,6 +208,35 @@
       },
       {
         "position": 65,
+        "volume": 100
+      },
+      {
+        "position": 70,
+        "volume": 100
+      },
+      {
+        "position": 71,
+        "volume": 0
+      },
+      {
+        "position": 100,
+        "volume": 0
+      }
+    ]
+  },
+   {
+    "file": "assets/v3-crazy-02.mp3",
+    "segments": [
+      {
+        "position": 0,
+        "volume": 0
+      },
+      {
+        "position": 70,
+        "volume": 0
+      },
+      {
+        "position": 71,
         "volume": 100
       },
       {
@@ -238,10 +267,6 @@
       {
         "position": 80,
         "volume": 100
-      },
-      {
-        "position": 85,
-        "volume": 0
       },
       {
         "position": 100,
