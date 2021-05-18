@@ -157,7 +157,7 @@
         "volume": 0
       },
       {
-        "position": 50,
+        "position": 40,
         "volume": 100
       },
       {
@@ -178,7 +178,7 @@
         "volume": 0
       },
       {
-        "position": 50,
+        "position": 40,
         "volume": 0
       },
       {
@@ -196,7 +196,7 @@
     ]
   },
     {
-    "file": "assets/v3-crazy-01.mp3",
+    "file": "assets/v4-crazy-01.mp3",
     "segments": [
       {
         "position": 0,
@@ -225,7 +225,7 @@
     ]
   },
    {
-    "file": "assets/v3-crazy-02.mp3",
+    "file": "assets/v4-crazy-02.mp3",
     "segments": [
       {
         "position": 0,
