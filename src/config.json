@@ -14,6 +14,18 @@
         "position": 30,
         "volume": 0
       },
+       {
+        "position": 65,
+        "volume": 0
+      },
+       {
+        "position": 75,
+        "volume": 100
+      },
+            {
+        "position": 80,
+        "volume": 0
+      },
       {
         "position": 100,
         "volume": 0
@@ -66,6 +78,18 @@
       },
       {
         "position": 50,
+        "volume": 0
+      },
+            {
+        "position": 65,
+        "volume": 0
+      },
+       {
+        "position": 75,
+        "volume": 100
+      },
+            {
+        "position": 80,
         "volume": 0
       },
       {
