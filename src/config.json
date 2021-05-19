@@ -1,6 +1,6 @@
 [
   {
-    "file": "assets/highperc-v2.mp3",
+    "file": "assets/v6-highperc.mp3",
     "segments": [
       {
         "position": 0,
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "file": "assets/lapoknoise-v2.mp3",
+    "file": "assets/v6-lapoknoise.mp3",
     "segments": [
       {
         "position": 0,
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "file": "assets/percpoli-v2.mp3",
+    "file": "assets/v6-percpoli.mp3",
     "segments": [
       {
         "position": 0,
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "file": "assets/bass-v2.mp3",
+    "file": "assets/v6-bass.mp3",
     "segments": [
       {
         "position": 0,
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "file": "assets/tonal-01-v2.mp3",
+    "file": "assets/v6-tonal-01.mp3",
     "segments": [
       {
         "position": 0,
@@ -121,7 +121,7 @@
     ]
   },
     {
-    "file": "assets/tonal-02-v2.mp3",
+    "file": "assets/v6-tonal-02.mp3",
     "segments": [
       {
         "position": 0,
@@ -146,7 +146,7 @@
     ]
   },
     {
-    "file": "assets/v5-radio-01.mp3",
+    "file": "assets/v6-radio-01.mp3",
     "segments": [
       {
         "position": 0,
@@ -171,7 +171,7 @@
     ]
   },
     {
-    "file": "assets/v5-radio-02.mp3",
+    "file": "assets/v6-radio-02.mp3",
     "segments": [
       {
         "position": 0,
@@ -196,7 +196,7 @@
     ]
   },
     {
-    "file": "assets/v4-crazy-01.mp3",
+    "file": "assets/v6-crazy-01.mp3",
     "segments": [
       {
         "position": 0,
@@ -225,7 +225,7 @@
     ]
   },
    {
-    "file": "assets/v4-crazy-02.mp3",
+    "file": "assets/v6-crazy-02.mp3",
     "segments": [
       {
         "position": 0,
@@ -254,7 +254,7 @@
     ]
   },
     {
-    "file": "assets/beep-01-v2.mp3",
+    "file": "assets/v6-beep-01.mp3",
     "segments": [
       {
         "position": 0,
